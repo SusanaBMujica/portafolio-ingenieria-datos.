@@ -35,4 +35,14 @@ A continuación, algunos de los proyectos que he desarrollado durante mi curso:
 # Tecnologías: Python.
 # Enlace:https://colab.research.google.com/drive/1M0A3jNhdYUqb5yz_l5szFTHdljSex7Tm?usp=sharing
 
-# Proyecto3: 
+# Proyecto3: Clase M2 AE3 Funciones y módulos
+- Descripcion: Se creo un archivo operaciones.ipynb que contiene todas las operaciones matematicas (suma, resta, multiplicacion, division) para posteriormente ser usado como operaciones.
+# Tecnologia: Python. 
+# Enlace: https://colab.research.google.com/drive/1TQ02cTWwa1RpZhHntYMmmXwVzhiQh6ez
+
+# Proyecto4:Ejercicios de aplicación #4 Estructuras de dato en Python y sentencias iterativas
+-Descripcion: Diccionario que representa un inventario de productos, donde cada clave sea un nombre de producto y su valor un diccionario con detalles como cantidad, precio y categoria. 
+# Tecnologia: Python. 
+# Enlace: https://colab.research.google.com/drive/1Iorxd7t2WL4bw5P6XiCM3bIbjkvlut2y
+
+# Proyecto5:
