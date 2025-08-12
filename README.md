@@ -49,3 +49,8 @@ A continuación, algunos de los proyectos que he desarrollado durante mi curso:
 -Descripcion: Creacion de Clase(Persona) con sus respectivos atributos. Nombre, edad y correo electronico. Ademas, metodos que permite ver los datos de la persona, actualizar datos, validar si esta correcto el correo electronico, y si la persona es mayor de edad. 
 # Tecnologia: Python
 # Enlace: https://colab.research.google.com/drive/1DeZYWUetydGmCFTvKrETD26RjKjO46tL
+
+# Proyecto6: 
+-Descripcion: Programa que permite que un usuario quite un libro prestado en biblioteca, siempre que haya stock. 
+# Tecnologia: Python 
+# Enlace: https://colab.research.google.com/drive/1bg91FB4Fb02Zy7NwrK6fS0LitEE0yCeQ
