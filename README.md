@@ -45,4 +45,7 @@ A continuación, algunos de los proyectos que he desarrollado durante mi curso:
 # Tecnologia: Python. 
 # Enlace: https://colab.research.google.com/drive/1Iorxd7t2WL4bw5P6XiCM3bIbjkvlut2y
 
-# Proyecto5:
+# Proyecto5:Ejercicios de aplicación #5 Programación orientada a objetos en Python
+-Descripcion: Creacion de Clase(Persona) con sus respectivos atributos. Nombre, edad y correo electronico. Ademas, metodos que permite ver los datos de la persona, actualizar datos, validar si esta correcto el correo electronico, y si la persona es mayor de edad. 
+# Tecnologia: Python
+# Enlace: https://colab.research.google.com/drive/1DeZYWUetydGmCFTvKrETD26RjKjO46tL
