@@ -35,7 +35,7 @@ A continuación, algunos de los proyectos que he desarrollado durante mi curso:
 # Tecnologías: Python.
 # Enlace:https://colab.research.google.com/drive/1M0A3jNhdYUqb5yz_l5szFTHdljSex7Tm?usp=sharing
 
-# Proyecto3: Clase M2 AE3 Funciones y módulos
+# Proyecto3: Ejercicio Clase M2 AE3 Funciones y módulos
 - Descripcion: Se creo un archivo operaciones.ipynb que contiene todas las operaciones matematicas (suma, resta, multiplicacion, division) para posteriormente ser usado como operaciones.
 # Tecnologia: Python. 
 # Enlace: https://colab.research.google.com/drive/1TQ02cTWwa1RpZhHntYMmmXwVzhiQh6ez
@@ -50,7 +50,16 @@ A continuación, algunos de los proyectos que he desarrollado durante mi curso:
 # Tecnologia: Python
 # Enlace: https://colab.research.google.com/drive/1DeZYWUetydGmCFTvKrETD26RjKjO46tL
 
-# Proyecto6: 
+# Proyecto6: Ejercicio Clase M2 AE6 Excepciones en python
 -Descripcion: Programa que permite que un usuario quite un libro prestado en biblioteca, siempre que haya stock. 
 # Tecnologia: Python 
 # Enlace: https://colab.research.google.com/drive/1bg91FB4Fb02Zy7NwrK6fS0LitEE0yCeQ
+
+# Proyecto7:  Ejercicios de aplicación #6 Excepciones en Python
+-Descripcion: Programa que simula calculadora, con operaciones basicas (suma, resta, multiplicacion, division) y maneja excepciones para division por 0, entradas no validas, y operador no valido.
+# Tecnologia: Python
+# Enlace: https://colab.research.google.com/drive/1TQ02cTWwa1RpZhHntYMmmXwVzhiQh6ez?usp=sharing
+
+# Proyecto8: Ejercicio Clase M2 AE5 Orientación a objetos en python
+-Descripcion: Clase Auto() con distintos atributos del auto.
+# Enlace: https://colab.research.google.com/drive/1clyi1yor2R3Re2ONmLfNerOuxtwIKv4v?usp=sharing
