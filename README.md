@@ -64,6 +64,3 @@ A continuación, algunos de los proyectos que he desarrollado durante mi curso:
 -Descripcion: Clase Auto() con distintos atributos del auto.
 # Enlace: https://colab.research.google.com/drive/1clyi1yor2R3Re2ONmLfNerOuxtwIKv4v?usp=sharing
 
-# ******************** Modulo 3 ****************************************************************
-
-# Proyecto9:
